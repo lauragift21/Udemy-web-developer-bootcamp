@@ -2,9 +2,9 @@
 
 ## This Course Covers:
 * HTML5 --> Completed
-* CSS3 
-* Bootstrap
-* JavaScript
+* CSS3 --> Completed
+* Bootstrap --> Completed
+* JavaScript --> Completed
 * DOM Manipulation 
 * jQuery 
 * Unix(Command Line) Commands 
