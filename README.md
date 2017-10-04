@@ -5,10 +5,10 @@
 * CSS3 --> Completed
 * Bootstrap --> Completed
 * JavaScript --> Completed
-* DOM Manipulation 
-* jQuery 
-* Unix(Command Line) Commands 
-* NodeJS 
+* DOM Manipulation --> Completed
+* jQuery --> Completed
+* Unix(Command Line) Commands --> Completed
+* NodeJS --> Completed
 * NPM
 * ExpressJS
 * REST
