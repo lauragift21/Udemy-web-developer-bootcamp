@@ -9,8 +9,8 @@
 * jQuery --> Completed
 * Unix(Command Line) Commands --> Completed
 * NodeJS --> Completed
-* NPM
-* ExpressJS
+* NPM --> completed
+* ExpressJS --> completed
 * REST
 * MongoDB
 * Database Associations
