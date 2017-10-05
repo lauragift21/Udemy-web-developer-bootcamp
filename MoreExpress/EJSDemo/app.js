@@ -20,13 +20,13 @@ app.get('/fallinlovewith/:thing', function(req, res){
 });
 
 app.get('/posts', function(req, res){
-	var post = [
+	var posts = [
 		{title: "Bants", author: "Susy"},
 		{title: "Akah Nnani", author: "And Bae"},
-		{title: "Sissy Yemmie", author: "Vlogs"},
+		{title: "Sissy Yemmie", author: "Vlogs"}
 	];
 
-	res.render("posts.ejs", {post: posts});
+	res.render("posts", {posts: posts});
 });
 
 
