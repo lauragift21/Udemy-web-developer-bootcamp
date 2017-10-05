@@ -1,0 +1,10 @@
+<h1>Contacts goes here</h1>
+
+<% contacts.forEach(function(friend) { %>
+   <li><%= friend %> </li>
+<% }); %>
+
+<form action="/addContact" method="POST">
+    <input type="text" name="newContact" placeholder="name">
+    <button>I added a new Contact!</button>
+</form>
